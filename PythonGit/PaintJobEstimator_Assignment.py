@@ -1,6 +1,6 @@
-# Randy P
+# rperez
 # 04/21/2025 - 04/27/2025
-# CIT/115/115L Python Professor Candido
+# CIT/115/115L Python Prof C
 
 #### Paint Job Estimator ####
 
