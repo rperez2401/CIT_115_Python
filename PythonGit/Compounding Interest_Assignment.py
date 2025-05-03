@@ -1,6 +1,6 @@
-# Randy P
+# rperez
 # 2/24/2025
-# CIT/115/115L Python Professor Candido
+# CIT/115/115L Python Prof C
 
 #Compounding interest program
 
