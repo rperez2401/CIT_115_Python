@@ -1,6 +1,6 @@
-# Author: Randy P
+# rperez
 # Date: 2/18/2025
-# CIT-115/115L Python; Professor Brian Candido ; STCC
+# CIT-115/115L Python; Prof C
 # Inter Planetary Weights Program
 
 # Constants: Surface Gravity Factor
