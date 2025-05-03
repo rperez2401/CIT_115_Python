@@ -1,6 +1,6 @@
-# Randy P
+# rperez
 # 04/07/2025 - 04/13/2025
-# CIT/115/115L Python Professor Candido
+# CIT/115/115L Python Prof C
 
 #### Compounding Interest Loops ####
 
