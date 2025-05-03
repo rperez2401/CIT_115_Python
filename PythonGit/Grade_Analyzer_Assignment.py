@@ -1,6 +1,6 @@
-# Randy P
+# rperez
 # 03/24/2025 - 04/01/2025
-# CIT/115/115L Python Professor Candido
+# CIT/115/115L Python Prof C
 
 #### Grade Analyzer V.2 ####
 
