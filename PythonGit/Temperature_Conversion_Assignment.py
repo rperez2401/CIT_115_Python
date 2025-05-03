@@ -1,6 +1,6 @@
-# Randy P
+# rperez
 # 03/08/2025 - 03/10/2025
-# CIT/115/115L Python Professor Candido
+# CIT/115/115L Python Prof C
 
 #### Temperature Conversion Program ####
 
